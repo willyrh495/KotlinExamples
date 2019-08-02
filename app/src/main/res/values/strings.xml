@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinExamples</string>
+    <string name="shake_action">Shake event</string>
+    <string name="compass_view">Compass View</string>
+</resources>
